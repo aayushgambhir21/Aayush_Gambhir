@@ -1,8 +1,5 @@
-# Aayush_Gambhir
-About me!
-**Aayush Gambhir**  
-Milton, ON | Phone: (365) 773-1929 | Email: aayushgambhir2021@gmail.com  
-LinkedIn: www.linkedin.com/in/aayush-gambhir | GitHub: https://github.com/aayushgambhir21  
+# Aayush Gambhir
+About me:
 
 **TECHNICAL SKILLS**  
 Proficient in various programming languages including Python, MATLAB, SQL, VBA, R, and Java. Experienced in utilizing tools such as NumPy, Pandas, Matplotlib, Scikit-learn, and Tableau for data analysis and visualization. Skilled in database management systems like PostgreSQL and MongoDB. Familiar with Microsoft Office tools, Git version control, and collaborative development platforms like GitHub.
